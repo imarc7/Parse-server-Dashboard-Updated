@@ -1,14 +1,14 @@
 {
   "apps": [{
-    "serverURL": "https://tshatapp.herokuapp.com/parse",
-    "appId": "tshatapp2018",
-    "masterKey": "masterT",
-    "appName": "TshatApp",
+    "serverURL": "https://doume.herokuapp.com/parse",
+    "appId": "docume499",
+    "masterKey": "docume499",
+    "appName": "Docume",
     "iconName": ""
   }],
   "users": [
   {
-   "user":"tshat",
+   "user":"docume",
    "pass":"12345"
   }
  ],
