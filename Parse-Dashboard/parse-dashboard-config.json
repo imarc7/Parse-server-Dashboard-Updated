@@ -1,0 +1,19 @@
+{
+  "apps": [{
+    "serverURL": "https://tshatapp.herokuapp.com/parse",
+    "appId": "tshatapp2018",
+    "masterKey": "masterT",
+    "appName": "TshatApp",
+    "iconName": ""
+  }],
+  "users": [
+  {
+   "user":"tshat",
+   "pass":"12345"
+  }
+ ],
+  "iconsFolder": ""
+}
+
+
+
